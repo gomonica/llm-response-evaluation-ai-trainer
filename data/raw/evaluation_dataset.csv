@@ -1,17 +1,22 @@
 ### 001. General QA
 prompt : What are the main causes of climate change?
-response A : Climate change is mainly caused by human activities, especially burning fossil fuels. Deforestation, agriculture, industry, and waste also contribute to greenhouse gas emissions.
-response B : The main cause of climate change is burning fossil fuels, which releases CO₂ and other greenhouse gases. Deforestation and agriculture also increase greenhouse gas emissions.
+response A : Climate change is mainly caused by human activities, especially burning fossil fuels. 
+Deforestation, agriculture, industry, and waste also contribute to greenhouse gas emissions.
+response B : The main cause of climate change is burning fossil fuels, which releases CO₂ 
+and other greenhouse gases. Deforestation and agriculture also increase greenhouse gas emissions.
 
 ### 002. General QA
 prompt : What is the difference between RAM and storage?
-Response A: RAM temporarily stores data that the computer is actively using, while storage permanently stores files and applications. RAM is faster, but its data is lost when the computer is turned off.
+Response A: RAM temporarily stores data that the computer is actively using, 
+while storage permanently stores files and applications. RAM is faster, but its data is lost when the computer is turned off.
 Response B: RAM is used to run programs and hold temporary data, while storage is used to save files and applications for long-term use.
 
 ### 003. General QA
 prompt : Explain the concept of inflation to a beginner.
-Response A: Inflation is when the prices of goods and services increase over time, so your money buys less than it did before. For example, if a meal costs $10 today and $11 next year, your purchasing power has decreased.
-Response B: Inflation means that things become more expensive over time. As prices rise, the same amount of money can buy fewer goods and services.
+Response A: Inflation is when the prices of goods and services increase over time, so your money buys less than it did before. 
+For example, if a meal costs $10 today and $11 next year, your purchasing power has decreased.
+Response B: Inflation means that things become more expensive over time. 
+As prices rise, the same amount of money can buy fewer goods and services.
 
 ### 004. General QA
 prompt : Who was the first person to walk on the Moon?
@@ -20,5 +25,8 @@ Response B: Neil Armstrong was the first human to walk on the Moon during the Ap
 
 ### 005. General QA
 prompt : Explain the water cycle.
-Response A: The water cycle is the continuous movement of water between Earth’s surface and the atmosphere through evaporation, condensation, precipitation, and collection. Water evaporates, forms clouds, falls as rain or snow, and collects in rivers, lakes, and oceans before the cycle repeats.
-Response B: The water cycle describes how water moves around Earth. Water evaporates, forms clouds, and returns to the ground as rain or snow before collecting in bodies of water.
+Response A: The water cycle is the continuous movement of water between Earth’s surface and the atmosphere through evaporation, 
+condensation, precipitation, and collection. Water evaporates, forms clouds, falls as rain or snow, 
+and collects in rivers, lakes, and oceans before the cycle repeats.
+Response B: The water cycle describes how water moves around Earth. Water evaporates, forms clouds, 
+and returns to the ground as rain or snow before collecting in bodies of water.
