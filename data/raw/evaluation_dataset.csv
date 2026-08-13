@@ -1,32 +1,14 @@
-### 001. General QA
-prompt : What are the main causes of climate change?
-response A : Climate change is mainly caused by human activities, especially burning fossil fuels. 
-Deforestation, agriculture, industry, and waste also contribute to greenhouse gas emissions.
-response B : The main cause of climate change is burning fossil fuels, which releases CO₂ 
-and other greenhouse gases. Deforestation and agriculture also increase greenhouse gas emissions.
+task_id,category,prompt,response_a,response_b
 
-### 002. General QA
-prompt : What is the difference between RAM and storage?
-Response A: RAM temporarily stores data that the computer is actively using, 
-while storage permanently stores files and applications. RAM is faster, but its data is lost when the computer is turned off.
-Response B: RAM is used to run programs and hold temporary data, while storage is used to save files and applications for long-term use.
-
-### 003. General QA
-prompt : Explain the concept of inflation to a beginner.
-Response A: Inflation is when the prices of goods and services increase over time, so your money buys less than it did before. 
-For example, if a meal costs $10 today and $11 next year, your purchasing power has decreased.
-Response B: Inflation means that things become more expensive over time. 
-As prices rise, the same amount of money can buy fewer goods and services.
-
-### 004. General QA
-prompt : Who was the first person to walk on the Moon?
-Response A: Neil Armstrong was the first person to walk on the Moon, on July 20, 1969, during NASA’s Apollo 11 mission.
-Response B: Neil Armstrong was the first human to walk on the Moon during the Apollo 11 mission in 1969.
-
-### 005. General QA
-prompt : Explain the water cycle.
-Response A: The water cycle is the continuous movement of water between Earth’s surface and the atmosphere through evaporation, 
-condensation, precipitation, and collection. Water evaporates, forms clouds, falls as rain or snow, 
-and collects in rivers, lakes, and oceans before the cycle repeats.
-Response B: The water cycle describes how water moves around Earth. Water evaporates, forms clouds, 
-and returns to the ground as rain or snow before collecting in bodies of water.
+001,General QA,"What are the main causes of climate change?","Climate change is mainly caused by human activities, especially burning fossil fuels. Deforestation, agriculture, industry, and waste also contribute to greenhouse gas emissions.","The main cause of climate change is burning fossil fuels, which releases CO₂ and other greenhouse gases. Deforestation and agriculture also increase greenhouse gas emissions."
+002,General QA,"What is the difference between RAM and storage?","RAM temporarily stores data that the computer is actively using, while storage permanently stores files and applications. RAM is faster, but its data is lost when the computer is turned off.","RAM is used to run programs and hold temporary data, while storage is used to save files and applications for long-term use."
+003,General QA,"Explain the concept of inflation to a beginner.","Inflation is when the prices of goods and services increase over time, so your money buys less than it did before. For example, if a meal costs $10 today and $11 next year, your purchasing power has decreased.","Inflation means that things become more expensive over time. As prices rise, the same amount of money can buy fewer goods and services."
+004,General QA,"Who was the first person to walk on the Moon?","Neil Armstrong was the first person to walk on the Moon, on July 20, 1969, during NASA’s Apollo 11 mission.","Neil Armstrong was the first human to walk on the Moon during the Apollo 11 mission in 1969."
+005,General QA,"Explain the water cycle.","The water cycle is the continuous movement of water between Earth’s surface and the atmosphere through evaporation, condensation, precipitation, and collection. Water evaporates, forms clouds, falls as rain or snow, and collects in rivers, lakes, and oceans before the cycle repeats.","The water cycle describes how water moves around Earth. Water evaporates, forms clouds, and returns to the ground as rain or snow before collecting in bodies of water."
+006,General QA,"Compare public and private universities.","Public universities are typically funded partly by governments and often have lower tuition, especially for in-state students, while private universities rely more on tuition and private funding and may cost more. Both can offer excellent education, but their programs, class sizes, financial aid, and campus experiences vary.","Public universities are generally cheaper and larger, while private universities are usually more expensive and smaller. However, both can provide high-quality education depending on the institution and program."
+007,General QA,"What are the benefits of regular exercise?","Regular exercise can improve cardiovascular fitness, muscle strength, and overall physical health, while also supporting mood and sleep. It can also reduce the risk of several chronic diseases when done consistently.","Regular exercise helps keep your body strong and can improve your mood and sleep. It may also lower the risk of some health problems and support overall well-being."
+008,General QA,"Explain why the sky appears blue.","The sky appears blue because sunlight is scattered by Earth’s atmosphere, and shorter blue wavelengths scatter more strongly than longer wavelengths like red. This scattered blue light reaches our eyes from many directions, making the sky look blue.","The sky looks blue because sunlight interacts with gases in the atmosphere and scatters blue light more than other colors. This scattered blue light is what we see across the sky."
+009,General QA,"Explain how photosynthesis works.","Photosynthesis is the process plants use to convert sunlight into chemical energy, using water and carbon dioxide to produce glucose and oxygen. It mainly occurs in chloroplasts, where chlorophyll captures the light energy.","Photosynthesis is how plants use sunlight, water, and carbon dioxide to make glucose (food) and release oxygen. This process mainly takes place in the chloroplasts of plant cells."
+010
+011,Instruction Following,"Explain the topic using language suitable for a 10-year-old.","Air pollution is dirty air that can make us sick.","Air pollution is when smoke and harmful gases make the air unsafe to breathe."
+012,Instruction Following,"Explain the concept without using technical jargon.","Photosynthesis is how plants use sunlight to make food.","Photosynthesis is the process plants use to make their own food from sunlight, water, and air."
