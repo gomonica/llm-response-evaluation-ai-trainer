@@ -12,3 +12,5 @@ task_id,category,prompt,response_a,response_b
 010
 011,Instruction Following,"Explain the topic using language suitable for a 10-year-old.","Air pollution is dirty air that can make us sick.","Air pollution is when smoke and harmful gases make the air unsafe to breathe."
 012,Instruction Following,"Explain the concept without using technical jargon.","Photosynthesis is how plants use sunlight to make food.","Photosynthesis is the process plants use to make their own food from sunlight, water, and air."
+013,Instruction Following,"Provide five examples of healty environment and no additional explanation.","Clean air, clean water, green parks, proper waste disposal, clean public spaces","Forests, rivers, gardens, clean streets, recycling areas"
+013,Instruction Following,"Answer in exactly 15 words. What is global warming?","   Global warming is Earth's long-term temperature rise caused mainly by human greenhouse gas emissions worldwide.","   Global warming means Earth's average temperature increases, largely due to greenhouse gases from human activities."
