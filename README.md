@@ -19,11 +19,11 @@ The dataset contains 35 evaluation tasks across multiple categories:
 
 Each raw data record contains:
 
-task_id — unique task identifier
-category — task category
-prompt — input given to both responses
-response_a — first model response
-response_b — second model response
+task_id — 
+category — 
+prompt — 
+response_a — 
+response_b — 
 
 ## Repository Structure
 
