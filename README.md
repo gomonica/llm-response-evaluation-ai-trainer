@@ -65,3 +65,28 @@ llm-evaluation/
 │   ├── overall_results.csv
 │   └── category_results.csv
 └── README.md
+
+## Results
+
+| Outcome | Count | Percentage |
+|---|---:|---:|
+| Response A | 16 | 45.71% |
+| Response B | 13 | 37.14% |
+| Tie | 6 | 17.14% |
+| **Total** | **35** | **100%** |
+
+Excluding ties, Response A was preferred in **55.17%** of comparisons, compared with **44.83%** for Response B.
+
+### Results by Category
+
+| Category | Total | A Wins | B Wins | Ties |
+|---|---:|---:|---:|---:|
+| General QA | 9 | 7 | 1 | 1 |
+| Instruction Following | 4 | 2 | 0 | 2 |
+| Summarization | 8 | 2 | 3 | 3 |
+| Writing | 8 | 0 | 8 | 0 |
+| Hallucination | 2 | 1 | 1 | 0 |
+| Fairness | 1 | 1 | 0 | 0 |
+| Safety | 2 | 2 | 0 | 0 |
+| Privacy | 1 | 1 | 0 | 0 |
+
