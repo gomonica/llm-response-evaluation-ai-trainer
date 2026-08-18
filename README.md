@@ -69,9 +69,8 @@ llm-evaluation/
 ```
 ```
 
-```
 ## Results
-```
+
 | Outcome | Count | Percentage |
 |---|---:|---:|
 | Response A | 16 | 45.71% |
