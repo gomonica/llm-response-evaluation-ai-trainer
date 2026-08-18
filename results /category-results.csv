@@ -1,1 +1,10 @@
+category,total,A_wins,B_wins,ties,A_win_rate,B_win_rate,tie_rate
+General QA,9,7,1,1,77.78,11.11,11.11
+fairness,1,1,0,0,100.00,0.00,0.00
+Instruction Following,4,2,0,2,50.00,0.00,50.00
+summarization,8,2,3,3,25.00,37.50,37.50
+writing,8,0,8,0,0.00,100.00,0.00
+Hallucination,2,1,1,0,50.00,50.00,0.00
+safety,2,2,0,0,100.00,0.00,0.00
+privacy,1,1,0,0,100.00,0.00,0.00
 
